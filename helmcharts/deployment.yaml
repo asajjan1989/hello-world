@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world-container
-        image: asajjan246/hello-world-app:0.1
+        image: asajjan246/hello-world-app:0.2
         ports:
         - containerPort: 8080
